@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACE,QAAS,CACT,SAAU,CACV,qBACF,CAKA,sBACE,wBACF","file":"main.5d0600cc.chunk.css","sourcesContent":["*{\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\nhtml{\n  background-color: darkslategray;\n  \n}\n.container-fluid{\n  background-color: darkslategray;\n}"]}
